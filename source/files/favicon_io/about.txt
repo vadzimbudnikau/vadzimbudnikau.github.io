@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Sans Old Permic
+- Font Author: Copyright 2017 Google Inc. All Rights Reserved.
+- Font Source: http://fonts.gstatic.com/s/notosansoldpermic/v16/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
